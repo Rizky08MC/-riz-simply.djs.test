@@ -1,2 +1,4 @@
-# -riz-simply.djs.test
-Test
+## Installation
+```
+npm i @riz/simply.djs.test
+```
